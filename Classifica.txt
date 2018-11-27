@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background: url('img1/5000.jpg');
+background-repeat: no-repeat;
+background-position: 0 0;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
+#classifica
